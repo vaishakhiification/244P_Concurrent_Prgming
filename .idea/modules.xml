@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/244P_Concurrent_Prgming.iml" filepath="$PROJECT_DIR$/244P_Concurrent_Prgming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mod2_1/Ex2_1.iml" filepath="$PROJECT_DIR$/Mod2_1/Ex2_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mod1/Mod1.iml" filepath="$PROJECT_DIR$/Mod1/Mod1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mod2_1/Mod2_1.iml" filepath="$PROJECT_DIR$/Mod2_1/Mod2_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mod2_2/Mod2_2.iml" filepath="$PROJECT_DIR$/Mod2_2/Mod2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mod3_1/Mod3_1.iml" filepath="$PROJECT_DIR$/Mod3_1/Mod3_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mod3_2/Mod3_2.iml" filepath="$PROJECT_DIR$/Mod3_2/Mod3_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mod3_3/Mod3_3.iml" filepath="$PROJECT_DIR$/Mod3_3/Mod3_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mod3_4/Mod3_4.iml" filepath="$PROJECT_DIR$/Mod3_4/Mod3_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mod3_5/Mod3_5.iml" filepath="$PROJECT_DIR$/Mod3_5/Mod3_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mod4_1/Mod4_1.iml" filepath="$PROJECT_DIR$/Mod4_1/Mod4_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mod4_2/Mod4_2.iml" filepath="$PROJECT_DIR$/Mod4_2/Mod4_2.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b1e464d-17f0-45e2-b529-95dcb63bccde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ToLOPCSYh6HFvX0slQbW3DEtSs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guds\IdeaProjects\244P_Concurrent_Prgming" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MessageQueue">
+    <configuration name="BankAccounts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankAccounts" />
+      <module name="Mod3_5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrequencyCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FrequencyCount" />
+      <module name="Mod4_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main3" />
+      <module name="Mod3_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MessageQueue" />
+      <module name="Mod3_3" />
+      <option name="PROGRAM_PARAMETERS" value="2 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebServer" />
+      <module name="Mod4_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BankAccounts" />
+      <item itemvalue="Application.FrequencyCount" />
+      <item itemvalue="Application.Main3 (1)" />
+      <item itemvalue="Application.MessageQueue" />
+      <item itemvalue="Application.WebServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MessageQueue" />
+        <item itemvalue="Application.FrequencyCount" />
+        <item itemvalue="Application.WebServer" />
+        <item itemvalue="Application.BankAccounts" />
+        <item itemvalue="Application.Main3 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b1e464d-17f0-45e2-b529-95dcb63bccde" name="Default Changelist" comment="" />
+      <created>1574121470100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574121470100</updated>
+      <workItem from="1574121475548" duration="1012000" />
+      <workItem from="1574287178863" duration="290000" />
+      <workItem from="1574481820850" duration="19223000" />
+      <workItem from="1574633451484" duration="10988000" />
+      <workItem from="1574753378788" duration="22041000" />
+      <workItem from="1575264310645" duration="3739000" />
+      <workItem from="1575319885144" duration="2144000" />
+      <workItem from="1575413122762" duration="196000" />
+      <workItem from="1575414224608" duration="7750000" />
+      <workItem from="1575531869923" duration="4478000" />
+      <workItem from="1575576021514" duration="635000" />
+      <workItem from="1575587780020" duration="1172000" />
+      <workItem from="1575961495621" duration="343000" />
+      <workItem from="1575965761704" duration="1561000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575588040300">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="254" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1474.864@62.0.1474.864" timestamp="1575588040300" />
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1575578676075">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1575578676075" />
+    <state width="1431" height="331" key="GridCell.Tab.0.bottom" timestamp="1575618328542">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="331" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1575618328542" />
+    <state width="1431" height="331" key="GridCell.Tab.0.center" timestamp="1575618328542">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="331" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1575618328542" />
+    <state width="1431" height="331" key="GridCell.Tab.0.left" timestamp="1575618328542">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="331" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1575618328542" />
+    <state width="1431" height="331" key="GridCell.Tab.0.right" timestamp="1575618328542">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="331" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1575618328542" />
+    <state width="1431" height="277" key="GridCell.Tab.1.bottom" timestamp="1575536798666">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1575536798666" />
+    <state width="1431" height="277" key="GridCell.Tab.1.center" timestamp="1575536798666">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1575536798666" />
+    <state width="1431" height="277" key="GridCell.Tab.1.left" timestamp="1575536798666">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1575536798666" />
+    <state width="1431" height="277" key="GridCell.Tab.1.right" timestamp="1575536798666">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1575536798666" />
+    <state x="496" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1575576114251">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="496" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1575576114251" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Mod2_1/src/Main2.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Mod2_2/src/CarWorld.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Mod3_3/src/Consumer.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Mod3_3/src/MessageQueue.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="msg.get()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
